@@ -20,14 +20,15 @@ window-title-font-family = "Maple Mono NF"
 adjust-underline-position = 40%
 adjust-underline-thickness = -60%
 
-theme = "rose-pine"
+# theme = "rose-pine"
 # cursor-color = "#908caa"
-cursor-color = "#31748f"
-cursor-text = "#ffffff"
+# cursor-color = "#31748f"
+# cursor-text = "#ffffff"
 # cursor-invert-fg-bg = false
 # cursor-color = "#59365a"
 #
 
+theme = "/Users/maureyes/.config/ghostty/catppuccin-mocha.conf"
 keybind = alt+left=unbind
 keybind = alt+right=unbind
 macos-option-as-alt = true

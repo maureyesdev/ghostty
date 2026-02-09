@@ -1,36 +1,23 @@
-# background = "#282c34"
-# background = "#0f0e18"
-# background = "#0a0911"
-# foreground = "#ffffff"
-background = "#16141f"
-
-font-size = 14
-
-adjust-cell-height = 50%
-
+font-family = Dank Mono
+font-size = 16
+background = 090B10
+theme = Rose Pine
+window-theme = ghostty
+window-titlebar-background = 090B10
+macos-titlebar-style = hidden
+macos-titlebar-style = hidden 
+window-save-state = never
+mouse-hide-while-typing = true
+window-padding-x = 4
+window-padding-y = 4
+cursor-style = block
+cursor-style-blink = false
+shell-integration-features = no-cursor
+confirm-close-surface = false
+adjust-cell-height = 60%
 window-padding-balance = true
-
-# font-family = "RecMonoSmCasual Nerd Font Mono"
-# window-title-font-family = "RecMonoSmCasual Nerd Font Mono"
-
-font-family = "Maple Mono NF"
-window-title-font-family = "Maple Mono NF"
-# font-thicken = true
-
 adjust-underline-position = 40%
 adjust-underline-thickness = -60%
-
-# theme = "rose-pine"
-# cursor-color = "#908caa"
-# cursor-color = "#31748f"
-# cursor-text = "#ffffff"
-# cursor-invert-fg-bg = false
-# cursor-color = "#59365a"
-#
-
-theme = "/Users/maureyes/.config/ghostty/catppuccin-mocha.conf"
-keybind = alt+left=unbind
-keybind = alt+right=unbind
 macos-option-as-alt = true
-
-# background-opacity = 0.96
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f
